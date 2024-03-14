@@ -6,7 +6,7 @@
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",
   "homepage": "https://github.com/diegomura/react-pdf#readme",
   "type": "module",
-  "repository": "git@github.com:diegomura/react-pdf.git",
+  "repository": "git@github.com:kjossendal/react-pdf.git",
   "workspaces": [
     "packages/*",
     "e2e/*"
